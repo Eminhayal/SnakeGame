@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,7 +15,7 @@ namespace main
 {
     public partial class Form1 : Form
     {
-        string kullanici = null, skor_dosya_yolu = @"C:\Users\rakio\Desktop\puan.txt", yardim_dosya_yolu = @"C:\Users\Acer\Desktop\denemeYardim.txt";
+        string kullanici = null, skor_dosya_yolu = @"C:sfsdfsdf\Users\rakio\Desktop\puan.txt", yardim_dosya_yolu = @"C:\Users\Acer\Desktop\denemeYardim.txt";
         public Thread thread;
 
         public enum Direction  //Yılanın hareketini yönlendirmek
