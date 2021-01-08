@@ -1,0 +1,23 @@
+asdasd  
+
+ 0 : 15 45
+  
+emin 0 : 6 20
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 0 : 2 label1
+ 0 : 4 label1
+ 0 : 1 label1
+ 0 : 3 label1
+ 0 : 1 label1
+ 0 : 4 label1
+ 0 : 3 Skor
+ 0 : 26 30
+  
