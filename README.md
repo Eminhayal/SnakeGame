@@ -6,8 +6,11 @@
 
  - Puan verilirken iki yem arasındaki zaman 100 e bölünerek  verilmektedir.
  - Zor noktalarda yani köşelerde yem yendiği zaman aldığı puanın + 10 puan fazlasını alır.
- - 
+ 
+ 
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDg3NjAzMywtMTkzODI2NDc2OV19
+eyJoaXN0b3J5IjpbMzg1MzMzNDUwLC0xOTM4MjY0NzY5XX0=
 -->
