@@ -12,11 +12,12 @@
  
  <a href="https://resimyukle.xyz/i/fybVWL"><img src="https://i.resimyukle.xyz/fybVWL.png" /></a>
 
-Oyun içerisinde bulunan özellikler
+## Oyun İçerisinde Bulunan Özellikler
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY0Mzk1LDQwNDk4ODMxNiwtMTkzOD
-I2NDc2OV19
+eyJoaXN0b3J5IjpbLTEzODEwMDA3NDAsNDA0OTg4MzE2LC0xOT
+M4MjY0NzY5XX0=
 -->
