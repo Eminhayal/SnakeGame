@@ -19,10 +19,11 @@
  - Oyun başlama ekranın kişiyi kaydet kısmı bulunmaktadır. Girilen isimi bir puanı ver süresiyle birlikte bir .txt dosyası içerisinde tutmaktadır.
 <a href="https://resimyukle.xyz/i/Cb6JJI"><img src="https://i.resimyukle.xyz/Cb6JJI.png" /></a>
  - Sağ üst köşede skoru sol üst köşede ise geçen zaman bulunmaktadır.
- - Oyun başladığı zaman butonla
+ - Oyun başladığı zaman butonlar işlevini yitirir. Tıklanamaz hale gelir.
+ - 
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzQ1NjMxNiwtODkyOTI0ODgwLC0xMz
-gxMDAwNzQwLDQwNDk4ODMxNiwtMTkzODI2NDc2OV19
+eyJoaXN0b3J5IjpbLTE3MzEyMjc1MDksLTg5MjkyNDg4MCwtMT
+M4MTAwMDc0MCw0MDQ5ODgzMTYsLTE5MzgyNjQ3NjldfQ==
 -->
