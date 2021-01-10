@@ -8,6 +8,7 @@
  - Oyun yön tuşları ile oynanmaktadır.
  - Puan verilirken iki yem arasındaki zaman 100 e bölünerek  verilmektedir.
  - Zor noktalarda yani köşelerde yem yendiği zaman aldığı puanın + 10 puan fazlasını alır.
+ - Kişiyi oyuna başlamadan kaydetmeniz gerekmektedir. Daha sonra  anasayfadan Skorları Görüntüle kısmından görebilirsiniz.
  - Oyunda yavaş ve hızlı olmak üzere iki mod bulunmaktadır. 
  - Oyunun başlaması için klavyenizden 'B' tuşuna durması için ise 'D' tuşuna basmanız gerekmektedir.  
  - Dört köşeye ve kendisine çarptığında oyun sonlanır.
@@ -29,7 +30,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjk0NDM5OSwtMTczMTIyNzUwOSwtOD
+eyJoaXN0b3J5IjpbMTg2OTk1ODMxOCwtMTczMTIyNzUwOSwtOD
 kyOTI0ODgwLC0xMzgxMDAwNzQwLDQwNDk4ODMxNiwtMTkzODI2
 NDc2OV19
 -->
