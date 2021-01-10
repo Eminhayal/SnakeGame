@@ -1,6 +1,7 @@
 # Yılan Oyunu  #snakeGame
 
- #**Nasıl Oynanır ? **
+## Nasıl Oynanır ? 
+
  Oyun bildiğimiz standart yılanlardan farklıdır. Oyunun puan sistemi ve oynanışı hakkında bilgilendirme ;
  
 
@@ -11,10 +12,11 @@
  
  <a href="https://resimyukle.xyz/i/fybVWL"><img src="https://i.resimyukle.xyz/fybVWL.png" /></a>
 
+Oyun içerisinde bulunan özellikler
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0Mzk2MDYzLDQwNDk4ODMxNiwtMTkzOD
+eyJoaXN0b3J5IjpbLTEzNzY0Mzk1LDQwNDk4ODMxNiwtMTkzOD
 I2NDc2OV19
 -->
