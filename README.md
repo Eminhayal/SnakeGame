@@ -15,10 +15,9 @@
 
 ## Oyun İçerisinde Bulunan Özellikler
 
-
-
+ - Oyun başlama ekranın kişiyi kaydet kısmı bulunmaktadır. Girilen isimi bir puanı ver süresiyle birlikte bir .txt dosyası içerisinde tutmaktadır.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA3NzQ4MDEsLTEzODEwMDA3NDAsND
-A0OTg4MzE2LC0xOTM4MjY0NzY5XX0=
+eyJoaXN0b3J5IjpbLTg5MjkyNDg4MCwtMTM4MTAwMDc0MCw0MD
+Q5ODgzMTYsLTE5MzgyNjQ3NjldfQ==
 -->
