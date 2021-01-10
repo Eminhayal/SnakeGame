@@ -22,11 +22,14 @@
  - Oyun başladığı zaman butonlar işlevini yitirir. Tıklanamaz hale gelir.
  - Oyunda yandığınız zaman karşınıza açılır pencere gelerek yeniden oynamak ister misiniz ? diye sorar eğer evet derseniz anasayfaya dönerek yeniden başlayabilirsiniz. Hayır derseniz uygulama kapanacaktır.
   <a href="https://resimyukle.xyz/i/CMHLCy"><img src="https://i.resimyukle.xyz/CMHLCy.png" /></a>
- - 
- - 
+ 
+## Oyun İçi Görüntü
+
+<a href="https://resimyukle.xyz/i/URfW2c"><img src="https://i.resimyukle.xyz/URfW2c.png" /></a>
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ0NzU0NDksLTE3MzEyMjc1MDksLT
-g5MjkyNDg4MCwtMTM4MTAwMDc0MCw0MDQ5ODgzMTYsLTE5Mzgy
-NjQ3NjldfQ==
+eyJoaXN0b3J5IjpbMTUxMjk0NDM5OSwtMTczMTIyNzUwOSwtOD
+kyOTI0ODgwLC0xMzgxMDAwNzQwLDQwNDk4ODMxNiwtMTkzODI2
+NDc2OV19
 -->
