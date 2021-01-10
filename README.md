@@ -22,8 +22,10 @@
  - Oyun başladığı zaman butonlar işlevini yitirir. Tıklanamaz hale gelir.
  - 
  - 
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzEyMjc1MDksLTg5MjkyNDg4MCwtMT
-M4MTAwMDc0MCw0MDQ5ODgzMTYsLTE5MzgyNjQ3NjldfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ4ODAzMTYsLTE3MzEyMjc1MDksLT
+g5MjkyNDg4MCwtMTM4MTAwMDc0MCw0MDQ5ODgzMTYsLTE5Mzgy
+NjQ3NjldfQ==
 -->
