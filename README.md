@@ -20,12 +20,13 @@
 <a href="https://resimyukle.xyz/i/Cb6JJI"><img src="https://i.resimyukle.xyz/Cb6JJI.png" /></a>
  - Sağ üst köşede skoru sol üst köşede ise geçen zaman bulunmaktadır.
  - Oyun başladığı zaman butonlar işlevini yitirir. Tıklanamaz hale gelir.
- - 
+ - Oyunda yandığınız zaman 
+  <a href="https://resimyukle.xyz/i/CMHLCy"><img src="https://i.resimyukle.xyz/CMHLCy.png" /></a>
  - 
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ4ODAzMTYsLTE3MzEyMjc1MDksLT
-g5MjkyNDg4MCwtMTM4MTAwMDc0MCw0MDQ5ODgzMTYsLTE5Mzgy
-NjQ3NjldfQ==
+eyJoaXN0b3J5IjpbLTkwNTgwOTQyNywtMTczMTIyNzUwOSwtOD
+kyOTI0ODgwLC0xMzgxMDAwNzQwLDQwNDk4ODMxNiwtMTkzODI2
+NDc2OV19
 -->
